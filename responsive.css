@@ -70,6 +70,13 @@
         color: aliceblue;
         display: block;
     }
+    .content{
+        height: 300px;
+        width: 100%;
+        background-image: url(bg.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }  
     .content p{
         padding-left: 10px;
         color: white;
